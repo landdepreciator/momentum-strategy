@@ -1,4 +1,4 @@
-# Simple moving-average stock trading strategy to beat Buy&Hold Benchmark
+# Simple stock trading strategy to beat Buy&Hold Benchmark
 
 Momentum-based stock picking model designed to outperform a traditional Buy & Hold benchmark across a selected set of stocks
 
